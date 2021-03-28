@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Michele and I'm Italian (yes, I make pizza and I'm quite good at it. But I don't play the mandolin, sorry). I'm a computer engineer and musician, desperately to bring my two souls together.  
+My name is Michele and I'm Italian (yes, I make pizza and I'm quite good at it). I'm a computer engineer and musician, desperately to bring my two souls together.  
 Among my interests there are:
 * Embedded devices :computer:
 * Linux :penguin:

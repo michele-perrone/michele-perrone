@@ -5,8 +5,8 @@ Among my interests there are:
 * Embedded devices :computer:
 * Linux :penguin:
 * Opera singing :musical_score:
-* Piano :musical_keyboard:   
-... and a lot of other things I don't recall right now.  
+* Piano :musical_keyboard:
+* Taking over the world :rocket:
 
 Feel free to take a look at my [**resume**](MichelePerrone_Resume.pdf).
 

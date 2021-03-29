@@ -9,6 +9,7 @@ Among my interests there are:
 * World takeover :rocket:
 
 Feel free to take a look at my [**resume**](MichelePerrone_Resume.pdf).
+You can also look me up on [LinkedIn](https://www.linkedin.com/in/michele-perrone) and [Researchgate](https://www.researchgate.net/profile/Michele-Perrone-2).
 
 <!--
 **michele-perrone/michele-perrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

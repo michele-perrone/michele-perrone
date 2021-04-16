@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Michele and I'm Italian. Apart from making pizza :pizza: and growing my moustache, I'm also a computer engineer and a musician, desperately trying to bring these two souls together.  
+My name is Michele and I'm Italian. Apart from making pizza :pizza:, I'm also a computer engineer and a musician, desperately trying to bring these two souls together.  
 Among my interests there are:
 * Embedded devices :computer:
 * Linux :penguin:

@@ -8,7 +8,6 @@ My name is Michele and I'm currently pursuing my M. Sc. in Music and Acoustic En
 * Opera singing :musical_score:
 * Piano :musical_keyboard:
 * Languages :radio:
-* World takeover :rocket:
 
 ## Let's keep in touch
 

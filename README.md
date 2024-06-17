@@ -16,6 +16,7 @@ You can also look me up on [LinkedIn](https://www.linkedin.com/in/michele-perron
 
 ## Publications
 
+* M. Perrone, C. Faller: *Enhancing a Stationary Noise Suppressor with Artificial Neural Networks*. 2024 AES convention 156. URL: https://aes2.org/publications/elibrary-page/?id=22538
 * M. Perrone, D.P. Pau, N.I. Piazzese: *Constrained Neural Estimation of Bluetooth Direction of Arrival with Non-Uniform Arrays*. 2022 IEEE International Conference on Consumer Electronics (ICCE). URL: https://doi.org/10.1109/ICCE53296.2022.9730266
 * N.I. Piazzese, M. Perrone, D.P. Pau: *Dataset for Bluetooth 5.1 Direction of Arrival with non Uniform Rectangular Arrays*. 2021 ScienceDirect Elsevier - Data in Brief. URL: https://doi.org/10.1016/j.dib.2021.107576
 * M. Perrone - *An Overview of Selected Pseudo-Stereophonic Techniques*. 2020, Bachelor Thesis (University of Maribor, Slovenia). URL: https://dk.um.si/IzpisGradiva.php?lang=eng&id=77844
